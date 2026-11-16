@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本资料逐页OCR"
+  short_description: "保留原件并逐页识别和看图校订，建立页图、文字、版本与疑点索引"
+  default_prompt: "用 $mystery-script-ocr 将这套剧本原件归档为可回查的逐页文字与原图，记录真实校订范围和待核项。"

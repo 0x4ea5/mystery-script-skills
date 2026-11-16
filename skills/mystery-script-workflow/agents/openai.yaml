@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本杀分角色模拟"
+  short_description: "独立玩家与主持分阶段打本，保留真实讨论、认知变化和音频交接"
+  default_prompt: "用 $mystery-script-workflow 让独立主持与玩家分阶段实际打本，少干预自由讨论，记录身份认知并移交配音。"

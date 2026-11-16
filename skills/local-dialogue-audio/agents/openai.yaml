@@ -1,0 +1,4 @@
+interface:
+  display_name: "多人对白与读本音频"
+  short_description: "把已有对白与读本制作成固定声线分段音频，保留动态字幕并支持跳过读本"
+  default_prompt: "用 $local-dialogue-audio 把这些已有对白与已授权读本制作成固定声线的分章、分段音频，分开读本与讨论，保留来源和当时称呼。"
